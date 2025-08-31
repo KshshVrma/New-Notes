@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "ead0dde4d38df297",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
             "id": "62409b6c2492b1dd",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "60942e233fcb3cb7",
@@ -227,7 +239,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b80047fac4a4f0bd",
+  "active": "ead0dde4d38df297",
   "lastOpenFiles": [
     "Summary.md",
     "List.md",
