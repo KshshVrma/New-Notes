@@ -1,0 +1,1 @@
+generally when the user provides the sql query to be performed in that case the postgres parser generated all possible execution plans and later it assigns it a cost so that the cost can be calculated and the most optimized query can be performed.

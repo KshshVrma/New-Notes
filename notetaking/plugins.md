@@ -1,0 +1,1 @@
+to download community plugins go to settings and then community plugins-> browse

@@ -53,12 +53,14 @@
             "id": "ead0dde4d38df297",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "List.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "List"
             }
           },
           {
@@ -239,10 +241,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ead0dde4d38df297",
+  "active": "f39dc65a5663ecdb",
   "lastOpenFiles": [
-    "Summary.md",
-    "List.md",
-    "Welcome.md"
+    "books/Smarter Faster Better_ The Secrets of Being Productive in Life and Business ( PDFDrive ).pdf",
+    "books/kabir.pdf",
+    "notetaking/Why do HashMaps double insize.md",
+    "notetaking/Whats OAuth2 Anyway - Blog by Roman Glushko.md",
+    "notetaking/What is the difference between Google Kubernetes Engine (GKE) and Google Compute Engine (GCE).md",
+    "notetaking/Week2.md",
+    "notetaking/Week1.md",
+    "notetaking/week1.1.md",
+    "notetaking/week 3.md",
+    "notetaking/week 1.2.md",
+    "notetaking/Vim.md",
+    "notetaking/Untitled.md",
+    "notetaking/UML Diagrams.md",
+    "notetaking/Togglz poc.md",
+    "notetaking/Toggles.md",
+    "notetaking/Tips.md",
+    "notetaking/tcp server.md",
+    "notetaking/Struts.md",
+    "notetaking/SSH.md",
+    "notetaking/SQL Joins.md",
+    "notetaking/SQL execution.md",
+    "notetaking/Spring boot.md",
+    "notetaking/Spring Boot project Structure.md",
+    "notetaking/SOLID Principles.md",
+    "notetaking/Sharding vs Partitioning.md",
+    "notetaking/Saml with Spring Security.md",
+    "notetaking/Saml Redirection Error.md",
+    "notetaking"
   ]
 }

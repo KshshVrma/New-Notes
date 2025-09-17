@@ -1,0 +1,2 @@
+[[langchain]]
+manim is a library which is used to generate videos from code this was made up by 3 blue 1 brows and this library can be isnatlled norally using pip install and then it can be used to create videos , ideally we cn make use of an llm or an api to generate code for manim which will cause the code, and this code can be excecuted by making use of code: manim -pql file.py helloworld where helloworld is the method in which the main executable of the file is present.=-
