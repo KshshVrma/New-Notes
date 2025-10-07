@@ -17,3 +17,9 @@ or objects move out of scope
 
 major gc:
 requirs scanning of entire heap so takes a lot of time hundreds of ms and even seconds ,very expensive, happens when no space left for allocation of periodic gc cleanup happens.
+
+
+so the jvm parameters are needed to be tuned, so that in future whenever gc happens it has minimal impact on running the application 
+the major things to keep in mind are latency important numbers are percentage division of the calls whether most are having low latency or not, other thing to keep in mind is throughput ie the time where the jvm is active and performing business application over the whole time period.
+and memory.
+do not initialize useless arraylist and hashmaps as they have default memory..
