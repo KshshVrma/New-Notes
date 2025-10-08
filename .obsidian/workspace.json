@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDE/java internals/Memory Management.md",
+                "file": "SDE/java internals/Threads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory Management"
+              "title": "Threads"
             }
           },
           {
@@ -257,8 +257,9 @@
   },
   "active": "fe37e07e1edb9324",
   "lastOpenFiles": [
-    "SDE/dsa/BFS.md",
     "SDE/java internals/Memory Management.md",
+    "SDE/java internals/Threads.md",
+    "SDE/dsa/BFS.md",
     "SDE/projects/roadmap.md",
     "notetaking/A gentle introduction to SAML  SSOReady.md",
     "SDE/projects",
@@ -290,7 +291,6 @@
     "notetaking/SQL Joins.md",
     "notetaking/SQL execution.md",
     "notetaking/Spring boot.md",
-    "notetaking/Spring Boot project Structure.md",
     "notetaking"
   ]
 }
