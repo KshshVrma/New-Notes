@@ -7,3 +7,7 @@ this is like a blue print for the thread to execute and depends on a thread obje
 executor service is something which manages different threads and we have to pass the runnable objects to it, it internally manages the threads which are assigned to it in the maxthreadpool call, however it uses internal algorithms including a queue to efficiently manage the task to be actually run.
 
 if the task is given and the current working threads are less than the core thread size ie the number of assigned threads in that case we directly assign the task. if they are busy we append to a queue which stores the task, if the queue is full in that case we simply create new threads and assign the task to the new threads till the number of created thereads are less than the max possible threads assigned to it.  when all the executions are done it calls a shutdown and stops all the threads.
+
+even in a singleton class it is indeed possible to  some method in which we are instantiating the method multiple times, however we still do need to understand that threads can try to access the object if the object is null initially and if they are accessing it at the same time, it is quite possible that some race condition occurs.
+
+an important keyword in that case should be the synchronized keyword which blocks execution within a block to a single thread, thus preventing the race condition.
