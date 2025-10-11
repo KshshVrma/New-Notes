@@ -6,6 +6,7 @@
       {
         "id": "3916b1899de800e9",
         "type": "tabs",
+        "dimension": 73.60050890585241,
         "children": [
           {
             "id": "e3b1a41b69a73dc3",
@@ -69,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDE/java internals/Locks.md",
+                "file": "SDE/hld practice/Kafka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Locks"
+              "title": "Kafka"
             }
           },
           {
@@ -95,6 +96,7 @@
       {
         "id": "60942e233fcb3cb7",
         "type": "tabs",
+        "dimension": 26.39949109414758,
         "children": [
           {
             "id": "816e96d452e95983",
@@ -257,8 +259,11 @@
   },
   "active": "fe37e07e1edb9324",
   "lastOpenFiles": [
-    "SDE/java internals/Threads runnable and executor service.md",
+    "Pasted image 20251011155626.png",
     "SDE/java internals/Locks.md",
+    "SDE/hld practice/Kafka.md",
+    "2025-10-10.md",
+    "SDE/java internals/Threads runnable and executor service.md",
     "SDE/java internals/Memory Management.md",
     "SDE/dsa/BFS.md",
     "SDE/projects/roadmap.md",
@@ -288,9 +293,6 @@
     "notetaking/Tips.md",
     "notetaking/tcp server.md",
     "notetaking/Struts.md",
-    "notetaking/SSH.md",
-    "notetaking/SQL Joins.md",
-    "notetaking/SQL execution.md",
     "notetaking"
   ]
 }
