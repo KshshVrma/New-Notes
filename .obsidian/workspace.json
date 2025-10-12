@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDE/hld practice/Kafka.md",
+                "file": "SDE/java internals/Completable future.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kafka"
+              "title": "Completable future"
             }
           },
           {
@@ -96,7 +96,7 @@
       {
         "id": "60942e233fcb3cb7",
         "type": "tabs",
-        "dimension": 26.39949109414758,
+        "dimension": 26.399491094147585,
         "children": [
           {
             "id": "816e96d452e95983",
@@ -259,9 +259,10 @@
   },
   "active": "fe37e07e1edb9324",
   "lastOpenFiles": [
+    "SDE/hld practice/Kafka.md",
+    "SDE/java internals/Completable future.md",
     "Pasted image 20251011155626.png",
     "SDE/java internals/Locks.md",
-    "SDE/hld practice/Kafka.md",
     "2025-10-10.md",
     "SDE/java internals/Threads runnable and executor service.md",
     "SDE/java internals/Memory Management.md",
