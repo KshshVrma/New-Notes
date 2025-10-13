@@ -4,7 +4,7 @@ some of the useful methods include
 supply returns a value upon completion of the method
 run runs without returning any value
 
-it can be chained with .then apply and .then accept where we can chain a list of task which are going to run asynchronously 
+it can be chained with .thenapply and .thenaccept where we can chain a list of task which are going to run asynchronously 
 
 finally you can run the .get that is a blocking call that allows the main thread to run only post the execution of the future has stopped.
 

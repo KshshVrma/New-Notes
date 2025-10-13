@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDE/dsa/DFs.md",
+                "file": "SDE/java internals/Volatile and Atomic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DFs"
+              "title": "Volatile and Atomic"
             }
           },
           {
@@ -259,15 +259,16 @@
   },
   "active": "fe37e07e1edb9324",
   "lastOpenFiles": [
-    "SDE/dsa/BFS.md",
-    "SDE/dsa/DFs.md",
+    "SDE/java internals/Memory Management.md",
+    "SDE/java internals/Volatile and Atomic.md",
     "SDE/java internals/Completable future.md",
+    "SDE/java internals/Locks.md",
+    "SDE/java internals/Threads runnable and executor service.md",
+    "SDE/dsa/DFs.md",
+    "SDE/dsa/BFS.md",
     "SDE/hld practice/Kafka.md",
     "Pasted image 20251011155626.png",
-    "SDE/java internals/Locks.md",
     "2025-10-10.md",
-    "SDE/java internals/Threads runnable and executor service.md",
-    "SDE/java internals/Memory Management.md",
     "SDE/projects/roadmap.md",
     "notetaking/A gentle introduction to SAML  SSOReady.md",
     "SDE/projects",
@@ -293,7 +294,6 @@
     "notetaking/Togglz poc.md",
     "notetaking/Toggles.md",
     "notetaking/Tips.md",
-    "notetaking/tcp server.md",
     "notetaking"
   ]
 }

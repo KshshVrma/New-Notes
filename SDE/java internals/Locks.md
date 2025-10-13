@@ -33,3 +33,8 @@ lock.unlock
 }
 
 //this sequence of operation is possible. because we can again call lock.lock when we are using reentrant lock
+
+
+Q- when prefer reentrant locks over synchronize:
+we at a higher level both any general lock and the keyword synchronize accomplish the same things, however when it comes to flexibility there are a lot of things that the reentrant lock offers which include: trylock : which allows the next thread to aquire lock only iff there is no lock on the upcomming block, we can a timed trylock which wait for few seconds only this prevents any thread to wait for forever, 
+
