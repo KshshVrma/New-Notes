@@ -11,3 +11,15 @@ finally you can run the .get that is a blocking call that allows the main thread
 some more useful methods include:
 allof
 anyof, etc.
+
+these 3 are especially important:
+
+.thenapply : this simply does a mapping of the output that the supply returns.
+it's like adding salt to food after food is prepared.
+
+
+.thencompose: this allows execution of multiple completable future blocks one after the other thus ensuring that. any asynchronous task that depends on one of the asynchronous task can get executed.
+it's like ordering desert after eating the maindish is over
+
+.thencombine: this allows multiple  async tasks to finish and then we performing some operation on each of the output:
+it's like creating dal and rice parallely and serving them together.
