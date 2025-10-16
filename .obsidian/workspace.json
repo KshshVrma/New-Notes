@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDE/java internals/Completable future.md",
+                "file": "SDE/java internals/Countdownlatch and Cyclicbarrier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Completable future"
+              "title": "Countdownlatch and Cyclicbarrier"
             }
           },
           {
@@ -259,10 +259,11 @@
   },
   "active": "fe37e07e1edb9324",
   "lastOpenFiles": [
+    "SDE/java internals/Completable future.md",
+    "SDE/java internals/Countdownlatch and Cyclicbarrier.md",
     "SDE/java internals/Threads runnable and executor service.md",
     "SDE/java internals/Volatile and Atomic.md",
     "SDE/java internals/Memory Management.md",
-    "SDE/java internals/Completable future.md",
     "SDE/java internals/Locks.md",
     "SDE/dsa/DFs.md",
     "SDE/dsa/BFS.md",
@@ -293,7 +294,6 @@
     "notetaking/UML Diagrams.md",
     "notetaking/Togglz poc.md",
     "notetaking/Toggles.md",
-    "notetaking/Tips.md",
     "notetaking"
   ]
 }
