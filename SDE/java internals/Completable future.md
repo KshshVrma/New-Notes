@@ -23,3 +23,5 @@ it's like ordering desert after eating the maindish is over
 
 .thencombine: this allows multiple  async tasks to finish and then we performing some operation on each of the output:
 it's like creating dal and rice parallely and serving them together.
+
+we have allof and anyof allof is required when we want to complete all the task and then proceed and anyof will complete when any of the task compelte

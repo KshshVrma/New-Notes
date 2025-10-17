@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDE/java internals/Countdownlatch and Cyclicbarrier.md",
+                "file": "SDE/dsa/BFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Countdownlatch and Cyclicbarrier"
+              "title": "BFS"
             }
           },
           {
