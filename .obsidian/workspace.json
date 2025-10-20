@@ -68,14 +68,12 @@
             "id": "fe37e07e1edb9324",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SDE/dsa/BFS.md",
-                "mode": "source",
-                "source": false
+                "file": "books/System Design the big archive -- Alex Xu -- bytebytego -- 1755d10539327240d3cd6dc9ac92870c -- Anna’s Archive.pdf"
               },
-              "icon": "lucide-file",
-              "title": "BFS"
+              "icon": "lucide-file-text",
+              "title": "System Design the big archive -- Alex Xu -- bytebytego -- 1755d10539327240d3cd6dc9ac92870c -- Anna’s Archive"
             }
           },
           {
@@ -259,6 +257,8 @@
   },
   "active": "fe37e07e1edb9324",
   "lastOpenFiles": [
+    "SDE/dsa/BFS.md",
+    "books/System Design the big archive -- Alex Xu -- bytebytego -- 1755d10539327240d3cd6dc9ac92870c -- Anna’s Archive.pdf",
     "SDE/java internals/Completable future.md",
     "SDE/java internals/Countdownlatch and Cyclicbarrier.md",
     "SDE/java internals/Threads runnable and executor service.md",
@@ -266,7 +266,6 @@
     "SDE/java internals/Memory Management.md",
     "SDE/java internals/Locks.md",
     "SDE/dsa/DFs.md",
-    "SDE/dsa/BFS.md",
     "SDE/hld practice/Kafka.md",
     "Pasted image 20251011155626.png",
     "2025-10-10.md",
@@ -293,7 +292,6 @@
     "notetaking/Untitled.md",
     "notetaking/UML Diagrams.md",
     "notetaking/Togglz poc.md",
-    "notetaking/Toggles.md",
     "notetaking"
   ]
 }
