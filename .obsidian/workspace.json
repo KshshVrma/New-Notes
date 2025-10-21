@@ -68,12 +68,14 @@
             "id": "fe37e07e1edb9324",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/System Design the big archive -- Alex Xu -- bytebytego -- 1755d10539327240d3cd6dc9ac92870c -- Anna’s Archive.pdf"
+                "file": "SDE/dsa/DSU.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "System Design the big archive -- Alex Xu -- bytebytego -- 1755d10539327240d3cd6dc9ac92870c -- Anna’s Archive"
+              "icon": "lucide-file",
+              "title": "DSU"
             }
           },
           {
@@ -257,8 +259,9 @@
   },
   "active": "fe37e07e1edb9324",
   "lastOpenFiles": [
-    "SDE/dsa/BFS.md",
     "books/System Design the big archive -- Alex Xu -- bytebytego -- 1755d10539327240d3cd6dc9ac92870c -- Anna’s Archive.pdf",
+    "SDE/dsa/DSU.md",
+    "SDE/dsa/BFS.md",
     "SDE/java internals/Completable future.md",
     "SDE/java internals/Countdownlatch and Cyclicbarrier.md",
     "SDE/java internals/Threads runnable and executor service.md",
@@ -291,7 +294,6 @@
     "notetaking/Vim.md",
     "notetaking/Untitled.md",
     "notetaking/UML Diagrams.md",
-    "notetaking/Togglz poc.md",
     "notetaking"
   ]
 }
