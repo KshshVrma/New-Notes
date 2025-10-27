@@ -6,7 +6,6 @@
       {
         "id": "3916b1899de800e9",
         "type": "tabs",
-        "dimension": 73.60050890585241,
         "children": [
           {
             "id": "e3b1a41b69a73dc3",
@@ -70,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDE/dsa/DSU.md",
+                "file": "SDE/java internals/Spring beans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSU"
+              "title": "Spring beans"
             }
           },
           {
@@ -92,23 +91,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "60942e233fcb3cb7",
-        "type": "tabs",
-        "dimension": 26.399491094147585,
-        "children": [
-          {
-            "id": "816e96d452e95983",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +241,10 @@
   },
   "active": "fe37e07e1edb9324",
   "lastOpenFiles": [
+    "interviews/list.md",
+    "SDE/java internals/Spring beans.md",
     "books/System Design the big archive -- Alex Xu -- bytebytego -- 1755d10539327240d3cd6dc9ac92870c -- Anna’s Archive.pdf",
+    "interviews",
     "SDE/dsa/DSU.md",
     "SDE/dsa/BFS.md",
     "SDE/java internals/Completable future.md",
@@ -292,8 +277,6 @@
     "notetaking/week 3.md",
     "notetaking/week 1.2.md",
     "notetaking/Vim.md",
-    "notetaking/Untitled.md",
-    "notetaking/UML Diagrams.md",
-    "notetaking"
+    "notetaking/Untitled.md"
   ]
 }
