@@ -43,3 +43,7 @@ BeanPostProcessor (after init)
 Bean Ready
     ↓
 @PreDestroy / destroy-method
+
+
+
+inorder to resolve circcular dependencies either do not write them , create a help class to contain the common logic otherwise just use setter injection not constructor injector or just use the @lazy annotation which forces spring to create one of the dependencies without injecting the dependency.
