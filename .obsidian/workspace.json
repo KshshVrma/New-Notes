@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDE/java internals/Spring beans.md",
+                "file": "SDE/java internals/Spring boot request.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring beans"
+              "title": "Spring boot request"
             }
           },
           {
@@ -241,8 +241,9 @@
   },
   "active": "fe37e07e1edb9324",
   "lastOpenFiles": [
-    "interviews/list.md",
     "SDE/java internals/Spring beans.md",
+    "SDE/java internals/Spring boot request.md",
+    "interviews/list.md",
     "books/System Design the big archive -- Alex Xu -- bytebytego -- 1755d10539327240d3cd6dc9ac92870c -- Anna’s Archive.pdf",
     "interviews",
     "SDE/dsa/DSU.md",
@@ -276,7 +277,6 @@
     "notetaking/week1.1.md",
     "notetaking/week 3.md",
     "notetaking/week 1.2.md",
-    "notetaking/Vim.md",
-    "notetaking/Untitled.md"
+    "notetaking/Vim.md"
   ]
 }
