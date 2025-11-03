@@ -1,0 +1,1 @@
+when we need to find the median of a stream of data we can make use of 2 heaps out of which one is a max heap and the other is a min heap, now ensure that the size( ) of these 2 heaps remain comparable to each other now simply pop one of them to get the median.
