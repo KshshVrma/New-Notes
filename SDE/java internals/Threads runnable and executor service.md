@@ -11,3 +11,7 @@ if the task is given and the current working threads are less than the core thre
 even in a singleton class it is indeed possible to  some method in which we are instantiating the method multiple times, however we still do need to understand that threads can try to access the object if the object is null initially and if they are accessing it at the same time, it is quite possible that some race condition occurs.
 
 an important keyword in that case should be the synchronized keyword which blocks execution within a block to a single thread, thus preventing the race condition.
+
+executorservice executor = Executors.fixthreadpool(3);
+executor.submit(()->{
+return "hello world"})
