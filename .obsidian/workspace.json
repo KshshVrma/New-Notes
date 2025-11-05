@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List.md",
+                "file": "SDE/dsa/Topo sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Topo sort"
             }
           },
           {
@@ -64,20 +64,6 @@
             }
           },
           {
-            "id": "fe37e07e1edb9324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDE/java internals/Threads runnable and executor service.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Threads runnable and executor service"
-            }
-          },
-          {
             "id": "62409b6c2492b1dd",
             "type": "leaf",
             "state": {
@@ -90,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,10 +225,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe37e07e1edb9324",
+  "active": "b80047fac4a4f0bd",
   "lastOpenFiles": [
-    "SDE/dsa/Heaps.md",
     "books/System Design the big archive -- Alex Xu -- bytebytego -- 1755d10539327240d3cd6dc9ac92870c -- Anna’s Archive.pdf",
+    "SDE/dsa/Topo sort.md",
+    "List.md",
+    "Summary.md",
+    "Welcome.md",
+    "SDE/projects/roadmap.md",
+    "notetaking/Dsa Patterns.md",
+    "notetaking/Decorator Pattern.md",
+    "notetaking/Design patterns(must know).md",
+    "notetaking/Creational design patterns.md",
+    "notetaking/Cluster vs pod vs container vs node.md",
+    "notetaking/cap theorem.md",
+    "SDE/java internals/Threads runnable and executor service.md",
+    "SDE/dsa/Heaps.md",
     "SDE/java internals/Spring boot request.md",
     "SDE/java internals/Spring beans.md",
     "interviews/list.md",
@@ -251,31 +249,19 @@
     "SDE/dsa/BFS.md",
     "SDE/java internals/Completable future.md",
     "SDE/java internals/Countdownlatch and Cyclicbarrier.md",
-    "SDE/java internals/Threads runnable and executor service.md",
     "SDE/java internals/Volatile and Atomic.md",
     "SDE/java internals/Memory Management.md",
     "SDE/java internals/Locks.md",
     "SDE/dsa/DFs.md",
     "SDE/hld practice/Kafka.md",
     "Pasted image 20251011155626.png",
-    "2025-10-10.md",
-    "SDE/projects/roadmap.md",
-    "notetaking/A gentle introduction to SAML  SSOReady.md",
     "SDE/projects",
     "SDE/hld practice",
     "SDE/lld practice",
     "SDE/java internals",
     "SDE/dsa",
     "SDE",
-    "List.md",
     "books/Smarter Faster Better_ The Secrets of Being Productive in Life and Business ( PDFDrive ).pdf",
-    "books/kabir.pdf",
-    "notetaking/Why do HashMaps double insize.md",
-    "notetaking/Whats OAuth2 Anyway - Blog by Roman Glushko.md",
-    "notetaking/What is the difference between Google Kubernetes Engine (GKE) and Google Compute Engine (GCE).md",
-    "notetaking/Week2.md",
-    "notetaking/Week1.md",
-    "notetaking/week1.1.md",
-    "notetaking/week 3.md"
+    "books/kabir.pdf"
   ]
 }
