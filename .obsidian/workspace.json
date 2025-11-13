@@ -39,14 +39,12 @@
             "id": "b80047fac4a4f0bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SDE/dsa/Topo sort.md",
-                "mode": "source",
-                "source": false
+                "file": "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Topo sort"
+              "icon": "lucide-file-text",
+              "title": "Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive"
             }
           },
           {
@@ -133,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "72280cde997c8603",
@@ -227,11 +226,14 @@
   },
   "active": "b80047fac4a4f0bd",
   "lastOpenFiles": [
+    "books/On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive.pdf",
+    "books/FRIEDRICH NIETZSCHE_ Thus Spoke Zarathustra A Book for All -- Friedrich Nietzsche -- Cambridge Texts in the History of Political Thought -- Cambridge -- c98c22ccb0d66c1247cb13072b3afb42 -- Anna’s Archive.pdf",
+    "books/Good to Great -- Jim Collins -- 1st, 2001 -- HarperCollins US -- 054916f24b224a4ad101a83a37d260ab -- Anna’s Archive.pdf",
+    "SDE/dsa/Topo sort.md",
     "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf",
     "books/Journey to Self-Realization - Collected Talks and Essays on -- Paramahansa Yogananda -- Collected Talks and Essays on Realizing God in daily life, -- 9780876122556 -- 5798263cbce35a9b431dd39a5c7c6b70 -- Anna’s Arch.pdf",
     "books/Elon Musk -- Walter Isaacson -- -, -, -, 2023 -- Simon & Schuster -- e96e6a480afeb0b4878da1b572d12817 -- Anna’s Archive.pdf",
     "books/System Design the big archive -- Alex Xu -- bytebytego -- 1755d10539327240d3cd6dc9ac92870c -- Anna’s Archive.pdf",
-    "SDE/dsa/Topo sort.md",
     "List.md",
     "Summary.md",
     "Welcome.md",
@@ -260,9 +262,6 @@
     "Pasted image 20251011155626.png",
     "SDE/projects",
     "SDE/hld practice",
-    "SDE/lld practice",
-    "SDE/java internals",
-    "SDE/dsa",
-    "SDE"
+    "SDE/lld practice"
   ]
 }
