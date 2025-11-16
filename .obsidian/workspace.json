@@ -39,12 +39,26 @@
             "id": "b80047fac4a4f0bd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf"
+                "file": "SDE/lld practice/Solid.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive"
+              "icon": "lucide-file",
+              "title": "Solid"
+            }
+          },
+          {
+            "id": "0bdd2312e46e3731",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           },
           {
@@ -74,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,11 +237,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83c0bd6bb5c30348",
+  "active": "b80047fac4a4f0bd",
   "lastOpenFiles": [
-    "Summary.md",
     "SDE/lld practice/Payment system.md",
+    "SDE/lld practice/Solid.md",
     "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf",
+    "Summary.md",
     "books/On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive.pdf",
     "books/FRIEDRICH NIETZSCHE_ Thus Spoke Zarathustra A Book for All -- Friedrich Nietzsche -- Cambridge Texts in the History of Political Thought -- Cambridge -- c98c22ccb0d66c1247cb13072b3afb42 -- Anna’s Archive.pdf",
     "books/Good to Great -- Jim Collins -- 1st, 2001 -- HarperCollins US -- 054916f24b224a4ad101a83a37d260ab -- Anna’s Archive.pdf",
@@ -258,7 +273,6 @@
     "SDE/java internals/Memory Management.md",
     "SDE/java internals/Locks.md",
     "SDE/dsa/DFs.md",
-    "SDE/hld practice/Kafka.md",
     "Pasted image 20251011155626.png",
     "SDE/projects",
     "SDE/hld practice"
