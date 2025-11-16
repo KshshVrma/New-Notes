@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "72280cde997c8603",
@@ -235,11 +236,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62409b6c2492b1dd",
+  "active": "ead0dde4d38df297",
   "lastOpenFiles": [
+    "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf",
     "books/Effective Java(TM) Programming Language Guide (2nd Edition) -- Bloch, Joshua.pdf",
     "SDE/projects/roadmap.md",
-    "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf",
     "SDE/lld practice/Solid.md",
     "SDE/lld practice/Payment system.md",
     "Summary.md",
