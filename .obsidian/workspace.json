@@ -25,14 +25,12 @@
             "id": "83c0bd6bb5c30348",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SDE/lld practice/Payment system.md",
-                "mode": "source",
-                "source": false
+                "file": "books/On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Payment system"
+              "icon": "lucide-file-text",
+              "title": "On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive"
             }
           },
           {
@@ -86,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,14 +234,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ead0dde4d38df297",
+  "active": "83c0bd6bb5c30348",
   "lastOpenFiles": [
-    "books/System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive.pdf",
+    "SDE/lld practice/Payment system.md",
     "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf",
     "books/Effective Java(TM) Programming Language Guide (2nd Edition) -- Bloch, Joshua.pdf",
+    "books/System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive.pdf",
     "SDE/projects/roadmap.md",
     "SDE/lld practice/Solid.md",
-    "SDE/lld practice/Payment system.md",
     "Summary.md",
     "books/On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive.pdf",
     "books/FRIEDRICH NIETZSCHE_ Thus Spoke Zarathustra A Book for All -- Friedrich Nietzsche -- Cambridge Texts in the History of Political Thought -- Cambridge -- c98c22ccb0d66c1247cb13072b3afb42 -- Anna’s Archive.pdf",
@@ -273,7 +271,6 @@
     "SDE/java internals/Volatile and Atomic.md",
     "SDE/java internals/Memory Management.md",
     "SDE/java internals/Locks.md",
-    "Pasted image 20251011155626.png",
-    "SDE/projects"
+    "Pasted image 20251011155626.png"
   ]
 }
