@@ -27,3 +27,5 @@ class DSU{
         }
     }
 };
+
+time complexity of the findupar is alpha (v) which is inverse ackerman function which grows slower than even log, so basically  it's contant for all the applications

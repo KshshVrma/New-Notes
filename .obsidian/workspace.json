@@ -25,26 +25,26 @@
             "id": "83c0bd6bb5c30348",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive.pdf"
+                "file": "SDE/dsa/DSU.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive"
+              "icon": "lucide-file",
+              "title": "DSU"
             }
           },
           {
             "id": "b80047fac4a4f0bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SDE/lld practice/Solid.md",
-                "mode": "source",
-                "source": false
+                "file": "books/On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Solid"
+              "icon": "lucide-file-text",
+              "title": "On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive"
             }
           },
           {
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "72280cde997c8603",
@@ -236,14 +235,20 @@
   },
   "active": "83c0bd6bb5c30348",
   "lastOpenFiles": [
+    "books/On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive.pdf",
+    "SDE/lld practice/Solid.md",
+    "SDE/dsa/DSU.md",
     "SDE/lld practice/Payment system.md",
+    "SDE/java internals/Spring boot request.md",
+    "SDE/java internals/Memory Management.md",
+    "SDE/java internals/Countdownlatch and Cyclicbarrier.md",
+    "SDE/java internals/Completable future.md",
+    "SDE/dsa/Stack.md",
     "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf",
     "books/Effective Java(TM) Programming Language Guide (2nd Edition) -- Bloch, Joshua.pdf",
     "books/System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive.pdf",
     "SDE/projects/roadmap.md",
-    "SDE/lld practice/Solid.md",
     "Summary.md",
-    "books/On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive.pdf",
     "books/FRIEDRICH NIETZSCHE_ Thus Spoke Zarathustra A Book for All -- Friedrich Nietzsche -- Cambridge Texts in the History of Political Thought -- Cambridge -- c98c22ccb0d66c1247cb13072b3afb42 -- Anna’s Archive.pdf",
     "books/Good to Great -- Jim Collins -- 1st, 2001 -- HarperCollins US -- 054916f24b224a4ad101a83a37d260ab -- Anna’s Archive.pdf",
     "SDE/dsa/Topo sort.md",
@@ -260,17 +265,11 @@
     "notetaking/cap theorem.md",
     "SDE/java internals/Threads runnable and executor service.md",
     "SDE/dsa/Heaps.md",
-    "SDE/java internals/Spring boot request.md",
     "SDE/java internals/Spring beans.md",
     "interviews/list.md",
     "interviews",
-    "SDE/dsa/DSU.md",
     "SDE/dsa/BFS.md",
-    "SDE/java internals/Completable future.md",
-    "SDE/java internals/Countdownlatch and Cyclicbarrier.md",
     "SDE/java internals/Volatile and Atomic.md",
-    "SDE/java internals/Memory Management.md",
-    "SDE/java internals/Locks.md",
     "Pasted image 20251011155626.png"
   ]
 }
