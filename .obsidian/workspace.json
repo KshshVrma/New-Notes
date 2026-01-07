@@ -54,8 +54,49 @@
               "icon": "lucide-file-text",
               "title": "System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive"
             }
+          },
+          {
+            "id": "a062b2f6ff3330bf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Journey to Self-Realization - Collected Talks and Essays on -- Paramahansa Yogananda -- Collected Talks and Essays on Realizing God in daily life, -- 9780876122556 -- 5798263cbce35a9b431dd39a5c7c6b70 -- Anna’s Arch.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Journey to Self-Realization - Collected Talks and Essays on -- Paramahansa Yogananda -- Collected Talks and Essays on Realizing God in daily life, -- 9780876122556 -- 5798263cbce35a9b431dd39a5c7c6b70 -- Anna’s Arch"
+            }
+          },
+          {
+            "id": "ce2a96898ff37e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDE/hld practice/patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "patterns"
+            }
+          },
+          {
+            "id": "fc3b5eb0d9054bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDE/hld practice/Kafka.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kafka"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -206,18 +247,20 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "e3b1a41b69a73dc3",
+  "active": "fc3b5eb0d9054bcd",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "books/kabir.pdf",
+    "SDE/hld practice/patterns.md",
+    "books/Journey to Self-Realization - Collected Talks and Essays on -- Paramahansa Yogananda -- Collected Talks and Essays on Realizing God in daily life, -- 9780876122556 -- 5798263cbce35a9b431dd39a5c7c6b70 -- Anna’s Arch.pdf",
+    "books/System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive.pdf",
+    "books/Trillion Dollar Coach_ The Leadership Playbook of Silicon -- Eric Schmidt -- 2019 -- HarperCollins -- 8c68a7b6ab0e1aa6371670433ac66838 -- Anna’s Archive.pdf",
     "notetaking/Tldraw 2026-01-05 8.38PM.md",
+    "Untitled.canvas",
     "books/On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive.pdf",
     "Excalidraw/Drawing 2026-01-05 20.36.47.excalidraw.md",
-    "SDE/hld practice/patterns.md",
     "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf",
     "books/Gita Translation - Gita Press -- Gita Press -- 38, 2007 -- Gita Press, Gorakhpur -- 9788129304377 -- 42afc35215dd6dc9857c07bad7cd8bdd -- Anna’s Archive.pdf",
     "books/Designing Data-Intensive Applications _ The Big Ideas Behind -- Martin Kleppmann -- 6 [early release], 2017 -- O'Reilly Media, Incorporated -- 9781449373320 -- a4d0064a0249c0bf3db7b39349ddaf21 -- Anna’s Archive.pdf",
-    "books/Trillion Dollar Coach_ The Leadership Playbook of Silicon -- Eric Schmidt -- 2019 -- HarperCollins -- 8c68a7b6ab0e1aa6371670433ac66838 -- Anna’s Archive.pdf",
-    "books/System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive.pdf",
     "SDE/lld practice/Notification service.md",
     "Pasted image 20251214100601.png",
     "SDE/lld practice/Snake and Ladder.md",
@@ -246,8 +289,6 @@
     "books/Effective Java(TM) Programming Language Guide (2nd Edition) -- Bloch, Joshua.pdf",
     "SDE/projects/roadmap.md",
     "Summary.md",
-    "books/FRIEDRICH NIETZSCHE_ Thus Spoke Zarathustra A Book for All -- Friedrich Nietzsche -- Cambridge Texts in the History of Political Thought -- Cambridge -- c98c22ccb0d66c1247cb13072b3afb42 -- Anna’s Archive.pdf",
-    "books/Good to Great -- Jim Collins -- 1st, 2001 -- HarperCollins US -- 054916f24b224a4ad101a83a37d260ab -- Anna’s Archive.pdf",
     "Pasted image 20251011155626.png"
   ]
 }
