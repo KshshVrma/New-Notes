@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,8 +247,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "fc3b5eb0d9054bcd",
+  "active": "a062b2f6ff3330bf",
   "lastOpenFiles": [
+    "books/Ask and It Is Given_ Learning to Manifest Your Desires (Law -- Abraham (Spirit), Esther Hicks, Jerry Hicks -- Penguin Random House LLC (Publisher -- 9781401904593 -- 0c916625bf4cbb69bd610ea0ff2156cc -- Anna’s Archi.pdf",
+    "SDE/hld practice/Kafka.md",
     "books/kabir.pdf",
     "SDE/hld practice/patterns.md",
     "books/Journey to Self-Realization - Collected Talks and Essays on -- Paramahansa Yogananda -- Collected Talks and Essays on Realizing God in daily life, -- 9780876122556 -- 5798263cbce35a9b431dd39a5c7c6b70 -- Anna’s Arch.pdf",
@@ -288,7 +290,6 @@
     "SDE/dsa/Stack.md",
     "books/Effective Java(TM) Programming Language Guide (2nd Edition) -- Bloch, Joshua.pdf",
     "SDE/projects/roadmap.md",
-    "Summary.md",
     "Pasted image 20251011155626.png"
   ]
 }
