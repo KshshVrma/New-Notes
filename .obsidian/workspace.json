@@ -59,12 +59,14 @@
             "id": "a062b2f6ff3330bf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Journey to Self-Realization - Collected Talks and Essays on -- Paramahansa Yogananda -- Collected Talks and Essays on Realizing God in daily life, -- 9780876122556 -- 5798263cbce35a9b431dd39a5c7c6b70 -- Anna’s Arch.pdf"
+                "file": "SDE/dsa/BFS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Journey to Self-Realization - Collected Talks and Essays on -- Paramahansa Yogananda -- Collected Talks and Essays on Realizing God in daily life, -- 9780876122556 -- 5798263cbce35a9b431dd39a5c7c6b70 -- Anna’s Arch"
+              "icon": "lucide-file",
+              "title": "BFS"
             }
           },
           {
@@ -249,11 +251,11 @@
   },
   "active": "a062b2f6ff3330bf",
   "lastOpenFiles": [
+    "books/Journey to Self-Realization - Collected Talks and Essays on -- Paramahansa Yogananda -- Collected Talks and Essays on Realizing God in daily life, -- 9780876122556 -- 5798263cbce35a9b431dd39a5c7c6b70 -- Anna’s Arch.pdf",
     "books/Ask and It Is Given_ Learning to Manifest Your Desires (Law -- Abraham (Spirit), Esther Hicks, Jerry Hicks -- Penguin Random House LLC (Publisher -- 9781401904593 -- 0c916625bf4cbb69bd610ea0ff2156cc -- Anna’s Archi.pdf",
     "SDE/hld practice/Kafka.md",
     "books/kabir.pdf",
     "SDE/hld practice/patterns.md",
-    "books/Journey to Self-Realization - Collected Talks and Essays on -- Paramahansa Yogananda -- Collected Talks and Essays on Realizing God in daily life, -- 9780876122556 -- 5798263cbce35a9b431dd39a5c7c6b70 -- Anna’s Arch.pdf",
     "books/System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive.pdf",
     "books/Trillion Dollar Coach_ The Leadership Playbook of Silicon -- Eric Schmidt -- 2019 -- HarperCollins -- 8c68a7b6ab0e1aa6371670433ac66838 -- Anna’s Archive.pdf",
     "notetaking/Tldraw 2026-01-05 8.38PM.md",

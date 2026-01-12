@@ -4,3 +4,4 @@ here ensure that you are storing the time at which the orange gets rotten for ea
 
 01 matrix:
 is similar multi source bfs starting from 0 to find each one's nearest 0
+yes good job
