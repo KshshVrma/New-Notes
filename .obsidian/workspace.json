@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDE/projects/Specsense.md",
+                "file": "dumps/feb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Specsense"
+              "title": "feb"
             }
           },
           {
@@ -263,8 +263,10 @@
   },
   "active": "ce2a96898ff37e3a",
   "lastOpenFiles": [
-    "SDE/projects/roadmap.md",
     "SDE/projects/Specsense.md",
+    "dumps/feb.md",
+    "dumps",
+    "SDE/projects/roadmap.md",
     "books/Elon Musk -- Walter Isaacson -- -, -, -, 2023 -- Simon & Schuster -- e96e6a480afeb0b4878da1b572d12817 -- Anna’s Archive.pdf",
     "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf",
     "books/On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive.pdf",
@@ -279,7 +281,6 @@
     "Untitled.canvas",
     "Excalidraw/Drawing 2026-01-05 20.36.47.excalidraw.md",
     "books/Gita Translation - Gita Press -- Gita Press -- 38, 2007 -- Gita Press, Gorakhpur -- 9788129304377 -- 42afc35215dd6dc9857c07bad7cd8bdd -- Anna’s Archive.pdf",
-    "books/Designing Data-Intensive Applications _ The Big Ideas Behind -- Martin Kleppmann -- 6 [early release], 2017 -- O'Reilly Media, Incorporated -- 9781449373320 -- a4d0064a0249c0bf3db7b39349ddaf21 -- Anna’s Archive.pdf",
     "SDE/lld practice/Notification service.md",
     "Pasted image 20251214100601.png",
     "SDE/lld practice/Snake and Ladder.md",
@@ -303,7 +304,6 @@
     "SDE/java internals/Memory Management.md",
     "SDE/java internals/Countdownlatch and Cyclicbarrier.md",
     "SDE/java internals/Completable future.md",
-    "SDE/dsa/Stack.md",
     "Pasted image 20251011155626.png"
   ]
 }
