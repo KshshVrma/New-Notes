@@ -263,6 +263,7 @@
   },
   "active": "ce2a96898ff37e3a",
   "lastOpenFiles": [
+    "books/_OceanofPDF.com_The_Mitochondriac_Manifesto_How_Nature_Nurtures_the_Body_and_Technology_Torments_It_-_r_d_lee.pdf",
     "SDE/projects/Specsense.md",
     "dumps/feb.md",
     "dumps",
@@ -303,7 +304,6 @@
     "SDE/java internals/Spring boot request.md",
     "SDE/java internals/Memory Management.md",
     "SDE/java internals/Countdownlatch and Cyclicbarrier.md",
-    "SDE/java internals/Completable future.md",
     "Pasted image 20251011155626.png"
   ]
 }
